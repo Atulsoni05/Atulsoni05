@@ -85,15 +85,6 @@ Features:
 
 ---
 
-## 📈 2026 Goals
-
-- Build 5+ Production-Level Data Engineering Projects
-- Master GCP Data Engineering
-- Learn PySpark
-- Learn System Design
-- Crack Product-Based Company Interviews
-
----
 
 ## 🤝 Connect With Me
 
