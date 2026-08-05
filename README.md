@@ -1,16 +1,105 @@
-## Hi there 👋
+# Hi 👋, I'm Atul Kumar Soni
 
-<!--
-**Atulsoni05/Atulsoni05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Data Engineer | GCP Data Engineer | Python & SQL Enthusiast
 
-Here are some ideas to get you started:
+I'm a **Senior Data Engineer at LTM** with experience in building and supporting cloud-based data pipelines using **Google Cloud Platform (GCP)**. I enjoy designing scalable data solutions, automating workflows, and continuously learning modern Data Engineering technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💼 Senior Data Engineer @ LTIMindtree
+- ☁️ Working with Google Cloud Platform (GCP)
+- 🐍 Strong interest in Python & SQL
+- 📊 Passionate about Data Engineering & Analytics
+- 🌱 Currently building an **Enterprise Banking Data Lakehouse**
+- 🎯 Goal: Become a Product-Based Data Engineer
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Python
+- SQL
+
+### Cloud
+- Google Cloud Platform (GCP)
+- BigQuery
+- Cloud Storage
+- Cloud Composer (Airflow)
+
+### Data Engineering
+- Airflow
+- dbt
+- DuckDB
+- Docker
+- Git
+- GitHub
+
+### Databases
+- BigQuery
+- DuckDB
+- MySQL
+
+### Tools
+- VS Code
+- DBeaver
+- Docker Desktop
+
+---
+
+## 📚 Currently Learning
+
+- Modern Data Engineering
+- Advanced Python
+- Data Modeling
+- DuckDB
+- dbt
+- Apache Airflow
+- CI/CD for Data Engineering
+
+---
+
+## 🚀 Current Project
+
+### Enterprise Banking Data Lakehouse
+
+A production-style Data Engineering project built using:
+
+- Python
+- DuckDB
+- dbt
+- Docker
+- Airflow
+- GitHub
+
+Features:
+
+- Data Validation
+- Bronze → Silver → Gold Architecture
+- Audit Logging
+- Data Quality Checks
+- Business Reports
+- CI/CD
+
+---
+
+## 📈 2026 Goals
+
+- Build 5+ Production-Level Data Engineering Projects
+- Master GCP Data Engineering
+- Learn PySpark
+- Learn System Design
+- Crack Product-Based Company Interviews
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: *(https://www.linkedin.com/in/atul-kumar-soni-685b95209/)*
+- 📧 Email: **atulsoni714@gmail.com**
+
+---
+
+⭐ Thanks for visiting my profile!
