@@ -43,7 +43,6 @@ I am a Senior Data Engineer at LTM Limited with experience in designing, buildin
 
 ### Tools
 - VS Code
-- DBeaver
 - Docker Desktop
 
 ---
