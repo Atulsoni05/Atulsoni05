@@ -1,6 +1,6 @@
 # Hi 👋, I'm Atul Kumar Soni
 
-## Senior Data Engineer | GCP Data Engineer | Python & SQL Enthusiast
+## Senior Data Engineer | Google Cloud Platform (GCP) | Python | SQL | Data Engineering
 
 I'm a **Senior Data Engineer at LTM** with experience in building and supporting cloud-based data pipelines using **Google Cloud Platform (GCP)**. I enjoy designing scalable data solutions, automating workflows, and continuously learning modern Data Engineering technologies.
 
