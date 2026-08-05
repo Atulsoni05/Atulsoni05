@@ -2,8 +2,7 @@
 
 ## Senior Data Engineer | Google Cloud Platform (GCP) | Python | SQL | Data Engineering
 
-I'm a **Senior Data Engineer at LTM** with experience in building and supporting cloud-based data pipelines using **Google Cloud Platform (GCP)**. I enjoy designing scalable data solutions, automating workflows, and continuously learning modern Data Engineering technologies.
-
+I am a Senior Data Engineer at LTM Limited with experience in designing, building, and supporting cloud-based data pipelines on Google Cloud Platform (GCP). My interests include scalable data engineering, workflow automation, data modeling, and modern analytics engineering.
 ---
 
 ## 🚀 About Me
