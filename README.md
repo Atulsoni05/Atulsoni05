@@ -7,7 +7,7 @@ I am a Senior Data Engineer at LTM Limited with experience in designing, buildin
 
 ## 🚀 About Me
 
-- 💼 Senior Data Engineer @ LTIMindtree
+- 💼 Senior Data Engineer @ LTM Limited
 - ☁️ Working with Google Cloud Platform (GCP)
 - 🐍 Strong interest in Python & SQL
 - 📊 Passionate about Data Engineering & Analytics
